@@ -1,5 +1,3 @@
 streamlit 
-numpy
-pandas
-multiapp
+streamlit-option-menu
 datetime
